@@ -7,7 +7,7 @@ import Category from './components/Category';
 import {  Route, Routes } from 'react-router-dom';
 import Signin from './components/Signin';
 import Signup from './components/Signup';
-import Accounts from './components/Accounts';
+//import Accounts from './components/Accounts';
 import { AuthContextProvider } from './context/AuthContext';
 //import { BrowserRouter } from 'react-router-dom';
 // import { Route, Routes } from 'react-router-dom';
@@ -44,9 +44,9 @@ function App() {
   <Routes>
   <Route path="/signup" element={< Signup/>} />
   </Routes>
-  {/* <Routes>
+   {/* <Routes>
   <Route path="/accounts" element={< Accounts/>} />
-  </Routes> */}
+  </Routes>  */}
   </AuthContextProvider>
     </div>
   );

@@ -16,8 +16,8 @@ const [nav, setNav] = useState(false)
         <div onClick={()=> setNav(!nav)} className='cursor-pointer'>
           <AiOutlineMenu size={30} />
         </div>
-        <Link to="/signin" >Signin</Link>
-        <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
+        <Link to="/signin" className='px-2' >Place Order</Link>
+        <h1 className='text-2xl sm:text-3xl lg:text-4xl px-4'>
            Delish<span className='font-bold'>Gulp</span>
         </h1>
         <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]'>

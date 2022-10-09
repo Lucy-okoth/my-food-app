@@ -7,8 +7,8 @@ const Cards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Sun's Out, BOGO's Out</p>
-          <p className='px-2'>Through 8/26</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Morning's Here, BOGO's Here</p>
+          <p className='px-2'>Through 5/15</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
@@ -21,8 +21,8 @@ const Cards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>New Restaurants</p>
-          <p className='px-2'>Added Daily</p>
+          <p className='font-bold text-2xl px-2 pt-4'>New RecipeFood</p>
+          <p className='px-2'>Daily Foods</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
@@ -35,8 +35,8 @@ const Cards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>We Deliver Desserts Too</p>
-          <p className='px-2'>Tasty Treats</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Drinks Delivery</p>
+          <p className='px-2'>Refreshing Drinks</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img

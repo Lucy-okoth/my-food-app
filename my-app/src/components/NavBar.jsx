@@ -4,6 +4,7 @@ import { BsFillCartFill,BsFillSaveFill } from 'react-icons/bs';
 import {TbTruckDelivery} from 'react-icons/tb'
 import {FaUserFriends, FaWallet} from 'react-icons/fa'
 import {MdFavorite, MdHelp} from 'react-icons/md'
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
 const [nav, setNav] = useState(false)
@@ -15,8 +16,9 @@ const [nav, setNav] = useState(false)
         <div onClick={()=> setNav(!nav)} className='cursor-pointer'>
           <AiOutlineMenu size={30} />
         </div>
+        <Link to="/signin" >Signin</Link>
         <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
-          Best <span className='font-bold'>Eats</span>
+           Delish<span className='font-bold'>Gulp</span>
         </h1>
         <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]'>
           <p className='bg-black text-white rounded-full p-2'>Delivery</p>

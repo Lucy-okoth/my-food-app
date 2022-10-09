@@ -4,6 +4,12 @@ import Hero from './components/Hero';
 import Cards from './components/Card';
 import Food from './components/Food';
 import Category from './components/Category';
+import {  Route, Routes } from 'react-router-dom';
+import Signin from './components/Signin';
+import Signup from './components/Signup';
+import Accounts from './components/Accounts';
+import { AuthContextProvider } from './context/AuthContext';
+//import { BrowserRouter } from 'react-router-dom';
 // import { Route, Routes } from 'react-router-dom';
 // import Signin from './components/Signin';
 // import Accounts from './components/Accounts';
@@ -13,18 +19,35 @@ import Category from './components/Category';
 function App() {
   return (
     <div>
-   <NavBar />
-   <Hero />
-  <Cards />
-  <Food />
-  <Category />
-  {/* <Routes >
-  
-  <Route path='/Signin' element={<Signin />} />
-  <Route path='/Signup' element={<Signup />} />
-  <Route path='/Accounts' element={<Accounts />} />
-  </Routes> */}
+    <AuthContextProvider>
+    
+    <Routes>
+   <Route path="/" element={<NavBar />} />
+   </Routes>
+   <Routes>
+   <Route path="/" element={<Hero />} />
+   </Routes>
+   <Routes>
+   <Route path="/cards" element={<Cards />} />
+   </Routes>
+   <Routes>
 
+   <Route path="/" element={<Food />} />
+   </Routes>
+   <Routes>
+   <Route path="/category" element={<Category />} />
+   </Routes>
+   <Routes>
+
+  <Route path="/signin" element={< Signin/>} />
+  </Routes>
+  <Routes>
+  <Route path="/signup" element={< Signup/>} />
+  </Routes>
+  <Routes>
+  <Route path="/accounts" element={< Accounts/>} />
+  </Routes>
+  </AuthContextProvider>
     </div>
   );
 }

@@ -5,3 +5,39 @@ Here is a sample of the app.
 
 
 ![Screenshot!](https://user-images.githubusercontent.com/108528356/194773737-294e212b-a232-4517-9cb8-636853f96d5f.png)
+
+##Table of Contents
+    .Problem Statement
+    .Setup
+    .Technologies Used
+    .Setup
+    .Video Demo
+    .Problems Encountered
+
+Problem Statement
+    The app is mainly targeting young students and those who find difficulty in cooking manually.
+    The app enables anyone who wants to get fast food or any food at their convenience and at affordable price.
+    They are able to get their desired food and this has been enabled by the filter method in React.
+
+
+    .Setup/Usage
+.1 To get to the page,you input your details in the Singn in section by clicking the Sign in button,which will take you to the page if you are registered if not you will be required to Sign up by receiving an error message.
+Suucesfull login will render you to the page where a user can choose the meal type and place an order.
+
+
+.Technologies Used
+    HTML -To structure the pages
+    Firebase V9 backend Authentication
+    Procted Routes
+    Tailwind Css to style pages
+    React js
+    JavaScript
+    Nodejs
+
+
+.Requirements
+    You need a phone,Ipad or laptop with stable internet Connection
+
+    Licence Information
+    MIT License
+    Copyright (c) 2022 Lucy Okoth

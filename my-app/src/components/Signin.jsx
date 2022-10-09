@@ -7,7 +7,7 @@ import { UserAuth } from '../context/AuthContext';
 const Signin = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [/*error,*/ setError] = useState('');
+  const [error, setError] = useState('');
   const navigate = useNavigate();
   const { signIn } = UserAuth();
 
@@ -47,10 +47,10 @@ const Signin = () => {
           <label className='py-2 font-medium'>Password</label>
           <input onChange={(e) => setPassword(e.target.value)} className='border p-3' type='password' />
         </div>
+        <p>Error: {error}</p>
         <button className='border border-orange-500 bg-orange-600 hover:bg-orange-500 w-full p-4 my-2 text-white'>
           Sign In
         </button>
-        
       </form>
     </div>
   );

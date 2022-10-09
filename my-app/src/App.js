@@ -4,10 +4,10 @@ import Hero from './components/Hero';
 import Cards from './components/Card';
 import Food from './components/Food';
 import Category from './components/Category';
-import { Route, Routes } from 'react-router-dom';
-import Signin from './components/Signin';
-import Accounts from './components/Accounts';
-import Signup from './components/Signup';
+// import { Route, Routes } from 'react-router-dom';
+// import Signin from './components/Signin';
+// import Accounts from './components/Accounts';
+// import Signup from './components/Signup';
 //import { BrowserRouter } from 'react-router-dom';
 
 function App() {
@@ -18,12 +18,12 @@ function App() {
   <Cards />
   <Food />
   <Category />
-  <Routes >
+  {/* <Routes >
   
   <Route path='/Signin' element={<Signin />} />
   <Route path='/Signup' element={<Signup />} />
   <Route path='/Accounts' element={<Accounts />} />
-  </Routes>
+  </Routes> */}
 
     </div>
   );

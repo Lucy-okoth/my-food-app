@@ -7,11 +7,17 @@ Here is a sample of the app.
 ![Screenshot!](https://user-images.githubusercontent.com/108528356/194773737-294e212b-a232-4517-9cb8-636853f96d5f.png)
 
 ##Table of Contents
+
     .Problem Statement
+
     .Setup
+
     .Technologies Used
+
     .Setup
+
     .Video Demo
+    
     .Problems Encountered
 
 Problem Statement

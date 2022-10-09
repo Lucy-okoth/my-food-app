@@ -9,6 +9,7 @@
     "firebase": "^9.11.0",
     "i": "^0.3.7",
     "init": "^0.1.2",
+    "json-server": "^0.17.0",
     "react": "18",
     "react-dom": "18",
     "react-router-dom": "^6.4.2",

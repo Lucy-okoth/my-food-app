@@ -48,7 +48,17 @@ Suucesfull login will render you to the page where a user can choose the meal ty
 
 .Requirements
 
-    You need a phone,Ipad or laptop with stable internet Connection
+    You need a phone,Ipad or laptop with stable internet 
+    Connection
+
+.Cloning
+
+    Clone the site and run it on your machine using the command below on your terminal and then run it
+    git@github.com:Lucy-okoth/my-food-app.git
+
+.Live link
+
+    papaya-longma-686ef5.netlify.app
 
     Live Demo Video
 

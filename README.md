@@ -57,11 +57,6 @@ Suucesfull login will render you to the page where a user can choose the meal ty
     git@github.com:Lucy-okoth/my-food-app.git
 
 
-    Live Demo Video
-    
-    [Screencast from 09-10-2022 10:36:34 WB.webm](https://user-images.githubusercontent.com/108528356/194776654-1c5b7966-c00d-4e43-98da-494ec9227848.webm)
-
-
     Licence Information
 
     MIT License

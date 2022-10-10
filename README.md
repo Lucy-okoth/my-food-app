@@ -8,6 +8,8 @@ Here is a sample of the app.
 
 ![Screenshot!](https://user-images.githubusercontent.com/108528356/194773737-294e212b-a232-4517-9cb8-636853f96d5f.png)
 
+Repository Github : https://github.com/Lucy-okoth/my-food-app
+
 ##Table of Contents
 
     .Problem Statement

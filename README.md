@@ -57,8 +57,7 @@ Suucesfull login will render you to the page where a user can choose the meal ty
     git@github.com:Lucy-okoth/my-food-app.git
 
 .Live link
-
-    papaya-longma-686ef5.netlify.app
+ papaya-longma-686ef5.netlify.app
 
     Live Demo Video
 

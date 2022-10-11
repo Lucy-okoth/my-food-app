@@ -4,7 +4,7 @@ The app main functionality is to enable users to navigate to the app with ease,l
 
 Here is a sample sccreensot ofz the app.
 
-![Screenshot!](https://user-images.githubusercontent.com/108528356/194773737-294e212b-a232-4517-9cb8-636853f96d5f.png)
+
 
 Repository Github : https://github.com/Lucy-okoth/my-food-app
 

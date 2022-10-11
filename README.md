@@ -10,6 +10,7 @@ Repository Github : https://github.com/Lucy-okoth/my-food-app
 
 Repository Live Link : https://papaya-longma-686ef5.netlify.app
 
+![Screenshot from 2022-10-11 06-55-48](https://user-images.githubusercontent.com/108528356/194994149-b1144beb-6d92-408c-ae6e-14c9a63ea48e.png)
 
 ##Table of Contents
 

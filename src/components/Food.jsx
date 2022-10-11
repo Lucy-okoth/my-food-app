@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { data } from '../data/data.js';
 
 const Food = () => {
-  //   console.log(data);
+    console.log(data);
   const [foods, setFoods] = useState(data);
 
   //   Filter Type burgers/pizza/etc

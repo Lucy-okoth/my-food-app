@@ -35,7 +35,7 @@ function App() {
    <Route path="/" element={<Food />} />
    </Routes>
    <Routes>
-   <Route path="/category" element={<Category />} />
+   <Route path="/" element={<Category />} />
    </Routes>
    <Routes>
 

@@ -8,7 +8,7 @@ Here is a sample sccreensot ofz the app.
 
 Repository Github : https://github.com/Lucy-okoth/my-food-app
 
-Repository Live Link : https://sage-hamster-669aa6.netlify.app
+Repository Live Link :  https://super-cool-site-by-lucy-okoth.netlify.app
 
 ![Screenshot from 2022-10-11 06-55-48](https://user-images.githubusercontent.com/108528356/194994149-b1144beb-6d92-408c-ae6e-14c9a63ea48e.png)
 

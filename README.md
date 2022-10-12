@@ -15,6 +15,8 @@ clone : git@github.com:Lucy-okoth/my-food-app.git
 ![Screenshot from 2022-10-11 06-55-48](https://user-images.githubusercontent.com/108528356/194994149-b1144beb-6d92-408c-ae6e-14c9a63ea48e.png)
 
 
+Vide Demo of how the project work
+
 [Screencast from 12-10-2022  2:20:06 WB.webm](https://user-images.githubusercontent.com/108528356/195330697-e953a7b4-5357-4a11-aa20-8a5f6a693285.webm)
 
 ##Table of Contents

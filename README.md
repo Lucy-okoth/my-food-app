@@ -68,6 +68,12 @@ Suucesfull login will render you to the page where a user can choose the meal ty
     git@github.com:Lucy-okoth/my-food-app.git
 
 
+    .About the App DEployment
+        The front end of this application has ben made possible by deploying it using Netlify. The back end on the other hand has been deployed using firebase therefore it satisfies the user interface requirements.
+
+
+
+
     Licence Information
 
     MIT License
